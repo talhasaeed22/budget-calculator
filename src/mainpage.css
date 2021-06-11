@@ -1,0 +1,12 @@
+.mainpage-container{
+    display: flex;
+    background-color: #161c2e;
+    color: white;
+    min-height: 100vh;
+}
+.pie-chart, .spline-chart{
+    margin: 1rem 5rem;
+    margin-top: 4rem;
+    height: 100%;
+    width: 100%;
+}
